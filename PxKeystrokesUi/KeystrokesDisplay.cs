@@ -64,7 +64,7 @@ namespace PxKeystrokesUi
             }
             else
             {
-                Opacity = 1;
+                Opacity = 0;
                 FadeStatus = FadeStatuses.Visible;
             }
 
